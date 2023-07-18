@@ -38,7 +38,7 @@ Current workspace is "root:example-imw".
 Current workspace is "root".
 ```
 
-An edge syncer manifest yaml file was created in your current directory: `florin-syncer.yaml`. The default for the output file is the name of the SyncTarget object with “-syncer.yaml” appended.
+An edge syncer manifest yaml file was created in your current director: `florin-syncer.yaml`. The default for the output file is the name of the SyncTarget object with “-syncer.yaml” appended.
 
 Now let's deploy the edge syncer to the `florin` edge cluster:
 
