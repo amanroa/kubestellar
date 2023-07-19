@@ -43,4 +43,3 @@ There have been some nomenclature changes:
 **Where Resolver** - Creates a SinglePlacementSlice object for each Edge Placement object. It runs from the ESPW. 
 
 **Workload Management Workspace (WMW)** - This can store one workload description.
-
